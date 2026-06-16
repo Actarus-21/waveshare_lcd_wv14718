@@ -1,7 +1,7 @@
 {
     "name": "LCD_ST7735_MicrobitV2",
     "version": "2.1.1",
-    "description": "Revoltman Electronics",
+    "description": "Revoltman.fr and Hammel Electronics",
     "dependencies": {
         "core": "*",
         "radio": "*"
